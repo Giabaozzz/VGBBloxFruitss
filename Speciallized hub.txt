@@ -11376,7 +11376,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "VGB [ Blox Fruits ]",
+    Name = " VGB [ Blox Fruits ] ",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://4483345998",
     Time = 5
